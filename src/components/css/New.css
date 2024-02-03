@@ -1,0 +1,29 @@
+.titre-New {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 1.5em;
+  margin-top: 5em;
+  margin-left: 65px;
+}
+
+.text-new {
+  font-size: 1em;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+}
+
+.contenair {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20%;
+}
+
+.news-item {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  height: 100%;
+}
