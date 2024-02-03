@@ -1,5 +1,5 @@
 # EternalReturnWebSiteClone
-
+The background video is missing because it's too big for git.
 ## Description
 
 This project is a clone of the Eternal Return website. It aims to replicate the functionality and design of the original website for learning purposes.
